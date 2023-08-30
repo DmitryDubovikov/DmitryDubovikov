@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Dmitry, Software Developer.
+
+## My stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+## My LeetCode stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dimaldinho)](https://github.com/madushadhanushka/github-readme)
 <!--
 **DmitryDubovikov/DmitryDubovikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
