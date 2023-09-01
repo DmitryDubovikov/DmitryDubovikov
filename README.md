@@ -6,6 +6,9 @@ I'm Dmitry, Software Developer.
 
 ### My LeetCode stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dimaldinho&theme=dark)](https://github.com/madushadhanushka/github-readme)
+
+### My Codewars stats:
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/DmitryDubovikov) 
 <!--
 **DmitryDubovikov/DmitryDubovikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
