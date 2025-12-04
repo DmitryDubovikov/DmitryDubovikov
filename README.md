@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Dmitry, Software Developer.
+I'm Dmitry, Full-stack + AI Developer.
 
 ### My stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
